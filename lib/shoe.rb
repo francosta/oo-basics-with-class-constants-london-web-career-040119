@@ -8,7 +8,7 @@ class Shoe
     @brand = brand
   end
   
-  binding.pr
+  binding.pry
   #   if BRANDS.include?(brand) != false
   #     BRANDS << brand
   #   end
